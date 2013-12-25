@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://svn.nexdoor.cc/svn/iphone/XCodeProjects/green/github/GCAnimationKit/GCAnimationKit/classes
+https://svn.nexdoor.cc/svn/iphone
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+599c912f-bad5-5340-8b10-b46e4594c75f
+
+GCAnimation.h
+file
+
+
+
+add
+
+GCAnimation.m
+file
+
+
+
+add
+
+GCAnimationQueue.h
+file
+
+
+
+add
+
+GCAnimationQueue.m
+file
+
+
+
+add
+
